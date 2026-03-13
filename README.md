@@ -23,3 +23,6 @@ Free to use API for getting predictions, stock data, weather data, and more.
 ## Tags
 
 `stocks` `predictions` `weather` `growagarden` `api` `free`
+
+---
+`https://discord.gg/cnx97uzP4c`
